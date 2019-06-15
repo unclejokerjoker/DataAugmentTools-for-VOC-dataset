@@ -2,6 +2,7 @@
 A data augment tool for VOC dataset
 
 Note that you should modify the paths to save the cropped images and the xml files in each python scripts.
+
 1.Crop
 Run 'python crop.py' to randomly crop images.
 You can specify the width and height of the cropped images and the default width and height are set 400x300.
